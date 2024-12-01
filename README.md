@@ -1,9 +1,24 @@
 ## Hi there 👋
 
 <!--
-**Ronaldwm89/ronaldwm89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!  
 
-Here are some ideas to get you started:
+Hi, I'm **Ronald Medina**, and I'm passionate about **data analysis** and **Python programming**.  
+
+## What I'm Learning  
+- Python 🐍 (100 Days of Code: The Complete Python Pro Bootcamp)  
+- Data Analysis 📊  
+- Git and GitHub 🖥️  
+
+## Projects  
+
+
+## Contact Me  
+- 📧 Email: ronaldwmm1989@gmail.com  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/ronald-wladimir-medina-medina-667a63221/)]
+
+> *"Keep learning, keep growing!"* 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
